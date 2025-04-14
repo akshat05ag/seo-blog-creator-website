@@ -1,3 +1,31 @@
+# Welcome to my project
+
+## Project info
+
+**URL**: https://readers-hub-app.vercel.app/
+
+## How can I edit this code?
+
+**Use your preferred IDE**
+
+If you want to work locally using your own IDE, you can clone this repo and push changes.
+
+The only requirement is having Node.js & npm installed.
+
+Follow these steps:
+
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install the necessary dependencies.
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+
 The application follows a step-by-step process for creating SEO-optimized blog posts:
 
 ## Keyword Research Stage (KeywordResearch.tsx)
