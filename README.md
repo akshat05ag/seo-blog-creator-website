@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://readers-hub-app.vercel.app/
+**URL**: https://seo-blog-creator-website.vercel.app/
 
 ## How can I edit this code?
 
