@@ -1,43 +1,43 @@
 The application follows a step-by-step process for creating SEO-optimized blog posts:
 
-1. Keyword Research Stage (KeywordResearch.tsx)
+## Keyword Research Stage (KeywordResearch.tsx)
 
-User enters a product category or topic
-The tool simulates researching keywords related to that topic
-Generates a list of keywords with:
+- User enters a product category or topic
+- The tool simulates researching keywords related to that topic
+- Generates a list of keywords with:
 
-Search volume
-Keyword difficulty
-Cost per click (CPC)
+- Search volume
+- Keyword difficulty
+- Cost per click (CPC)
 
-User can select up to 4 keywords
-Clicking "Continue" moves to the next stage
+- User can select up to 4 keywords
+- Clicking "Continue" moves to the next stage
 
-2. Content Generation Stage (ContentGenerator.tsx)
+## Content Generation Stage (ContentGenerator.tsx)
 
-Uses the selected keywords to generate a blog post
-Automatically creates:
+- Uses the selected keywords to generate a blog post
+- Automatically creates:
 
-A catchy, SEO-friendly title
-A 150-200 word blog post incorporating the selected keywords
+- A catchy, SEO-friendly title
+- A 150-200 word blog post incorporating the selected keywords
 
-Provides an editing interface where users can:
+- Provides an editing interface where users can:
 
-Modify the generated title
-Edit the generated content
-Preview the blog post
+- Modify the generated title
+- Edit the generated content
+- Preview the blog post
 
-Clicking "Continue to Export" moves to the final stage
+- Clicking "Continue to Export" moves to the final stage
 
-3. Export & Publish Stage (ContentExport.tsx)
+## Export & Publish Stage (ContentExport.tsx)
 
-Provides multiple ways to view and export the blog post:
+- Provides multiple ways to view and export the blog post:
 
-Preview tab: Renders the blog post
-Markdown tab: Shows Markdown version with copy option
-HTML tab: Shows HTML version with copy option
+- Preview tab: Renders the blog post
+- Markdown tab: Shows Markdown version with copy option
+- HTML tab: Shows HTML version with copy option
 
-Offers publishing options for:
+- Offers publishing options for:
 
 WordPress
 Medium
