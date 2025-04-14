@@ -39,13 +39,13 @@ The application follows a step-by-step process for creating SEO-optimized blog p
 
 - Offers publishing options for:
 
-WordPress
-Medium
-Hashnode
+- WordPress
+- Medium
+- Hashnode
 
-Additional features:
+ - Additional features:
 
-Copy to clipboard
-Download as Markdown file
-Word count badge
-Option to create a new post
+- Copy to clipboard
+- Download as Markdown file
+- Word count badge
+- Option to create a new post
